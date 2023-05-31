@@ -4,6 +4,11 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
-  return    (<div>Hello World</div>)
+  return (
+  <div>
+    <h1 className="text-center pt-5 text-[24px]">Image in Next.js</h1>
+    
+    </div>
+    );
 }
 
