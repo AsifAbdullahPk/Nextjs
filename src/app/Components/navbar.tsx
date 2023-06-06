@@ -39,7 +39,6 @@ const Navbar=()=> {
     
   </header>
   
-  <Image src={require('../Components/Picture/asif-300x300.jpg')} alt="" width={350} height={350} loading="lazy"className="w-[600px]h-[600px] ml-5 rounded-full"/>
     
    </div>)
   
@@ -47,3 +46,5 @@ const Navbar=()=> {
 }
 export default Navbar
 
+//<Image src={require('../Components/Picture/asif-300x300.jpg')} alt="" width={350} height={350} loading="lazy"className="w-[600px]h-[600px] ml-5 rounded-full"/>
+  
